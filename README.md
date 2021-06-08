@@ -2,7 +2,7 @@
 - 👀 I’m interested in mathematics, small amounts of programs and so on.
 - 🌱 I’m currently studying prediction.
 - 💞️ I’m looking to collaborate on virtual machines.
-- 📫 How to reach me : Google Drive Link | One Drive Link | Github Link | Working Sample | Docker Hub Link | Sourceforge Link (abandoned) | Private Email | Private Line.
+- 📫 How to reach me : Google Drive Link | One Drive Link | Github Link | Working Sample | Docker Hub Link | Sourceforge Link (abandoned) | Private Email | Private Line | github email redirection (but the provider I use sometimes losts mails... bad...).
 
 (No one except first to mid 2018 (lost data but there's 10~20 people I don't have relation before and after then ) contacts me in general publics.)
 If there's the people who say they contacts me, it's false.
