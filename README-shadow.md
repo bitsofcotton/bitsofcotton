@@ -16,3 +16,7 @@ because of wrong fingerprint on SSL certificate.
 
 sites.google.com has something buggy on javascript nor someone mitms on line. So we have to delete sites.google.com/view/bitsofcotton site.
 (Text cursor bug.) And they are archived into web drives because of no response from anyone .
+
+I saw a brain outsourcing service via some social bookmark hot entries, I don't have any relation with them.
+
+I need the time to read the things I bought before (the books from publishers and the reports that google scholar finds, and the games that i.e. amazon sales.)
