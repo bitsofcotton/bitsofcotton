@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bitsofcotton
 - 👀 I’m interested in mathematics, diet size of codes and so on.
-- 🌱 I’m currently learning to diet size of codes, making combination up to aleph_5.
+- 🌱 I’m currently learning to diet size of codes, making two operand combination up to aleph_5.
 - 💞️ I’m looking to collaborate on -.
 - 📫 How to reach me : [Google Drive Link](https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing) | [One Drive Link](https://1drv.ms/u/s!AnqkwcwMjB_PaDIfXya_M3-aLXw?e=qzfKcU) | [Github Link](https://github.com/bitsofcotton) | [OSDN Link](https://osdn.net/users/bitsofcotton/) | [Working Sample](https://konbu.azurewebsites.net/) | [Docker Hub Link](https://hub.docker.com/u/bitsofcotton/) | [Sourceforge Link (abandoned)](https://sourceforge.net/u/bitsofcotton/) | Private Email | Private Line | github email redirection (but the provider I use sometimes losts mails... bad...).
 
