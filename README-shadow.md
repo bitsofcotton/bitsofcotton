@@ -24,4 +24,4 @@ I need the time to read the things I bought before (the books from publishers an
 The e-mail account that I use often losts mail including account login confirmation. So it might be intercepted nor filtered by spam filter.
 And this is low probability but also my line account is.
 
-It is the intention to implement relinker to transcode windows to \*nix, but the binary I had is something not normal, so there's a retdec compiler they recompiles normal binaries well.
+It is the intention to implement relinker to transcode windows to \*nix, but the binary I had is something not normal, so there's a retdec compiler they recompiles normal binaries well as they implements.
