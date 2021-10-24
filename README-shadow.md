@@ -25,3 +25,7 @@ The e-mail account that I use often losts mail including account login confirmat
 And this is low probability but also my line account is.
 
 It is the intention to implement relinker to transcode windows to \*nix, but the binary I had is something not normal, so there's a retdec compiler they recompiles normal binaries well as they implements.
+
+I saw a propaganda news topic, I don't have any relation on any of online salon nor so on.
+
+I have dinkey academic background, so it's very low probability but if there's some propaganda nor so on, it's not me.
