@@ -11,7 +11,7 @@ There's much possibility to be watched by someone if we borrow hosting service s
 without logged to access_log, there's no choice from my experience with many of hosting services. 
 Therefore, we publish our files also here.
 
-A twitter account I had (around 2017-2020 (I don\'t have clear memory), after then, I don't have any relation on the account.) had to be deleted
+A twitter account I had (around 2017-early 2020 (I don\'t have clear memory), after then, I don't have any relation on the account.) had to be deleted
 because of wrong fingerprint on SSL certificate.
 
 sites.google.com has something buggy on javascript nor someone mitms on line. So we have to delete sites.google.com/view/bitsofcotton site.
@@ -19,13 +19,17 @@ sites.google.com has something buggy on javascript nor someone mitms on line. So
 
 I saw a brain outsourcing service via some social bookmark hot entries, I don't have any relation with them.
 
-I need the time to read the things I bought before (the books from publishers and the reports that google scholar finds, and the games that i.e. amazon sales.)
-
 The e-mail account that I use often losts mail including account login confirmation. So it might be intercepted nor filtered by spam filter.
+I had had another e-mail accounts on some of hosting service / free mail, but they also had a probability to filter emails even in VPS.
+(iCloud mail customer support had had be intercepted on inquiry and they knows, so both provider mail and icloud mail had at least some of times.)
 And this is low probability but also my line account is (except the blocked persons they aggravate my woe.).
 
 It is the intention to implement relinker to transcode windows to \*nix, but the binary I had is something not normal, so there's a retdec compiler they recompiles normal binaries well as they implements.
 
-I saw a propaganda news topic, I don't have any relation on any of online salon nor so on.
+I saw a propaganda news topic, I don't have any relation with any of online salon nor so on.
 
-I have dinkey academic background, so it's very low probability but if there's some propaganda nor so on, it's not me.
+I also saw a propaganda news topic which they had sell/buy some accounts on the some services, I don't have any transaction such of them.
+
+I have a dinkey academic background, so it's very low probability but if there's some propaganda nor so on, it's not me.
+
+I need the time to read the things I bought before (the books from publishers and the reports that google scholar finds.)
