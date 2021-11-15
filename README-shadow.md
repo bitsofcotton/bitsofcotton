@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bitsofcotton
 - 👀 I’m interested in mathematics, diet size of codes and so on.
-- 🌱 I’m currently learning to diet size of codes, making two operand combination up to aleph_5.
+- 🌱 I’m currently learning to diet size of codes, making two operand combination up to aleph_2, and inverse of two operand combination also bases aleph_2.
 - 💞️ I’m looking to collaborate on -.
 - 📫 How to reach me : [Google Drive Link](https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing) | [One Drive Link](https://1drv.ms/u/s!AnqkwcwMjB_PaDIfXya_M3-aLXw?e=qzfKcU) | [Github Link](https://github.com/bitsofcotton) | [OSDN Link](https://osdn.net/users/bitsofcotton/) | [Working Sample](https://konbu.azurewebsites.net/) | [Docker Hub Link](https://hub.docker.com/u/bitsofcotton/) | [Sourceforge Link (abandoned)](https://sourceforge.net/u/bitsofcotton/) | Private Email | Private Line | github email redirection (but the provider I use sometimes losts mails... bad...).
 
@@ -21,10 +21,8 @@ I saw a brain outsourcing service via some social bookmark hot entries, I don't 
 
 The e-mail account that I use often losts mail including account login confirmation. So it might be intercepted nor filtered by spam filter.
 I had had another e-mail accounts on some of hosting service / free mail, but they also had a probability to filter emails even in VPS.
-(iCloud mail customer support had had be intercepted on inquiry and they knows, so both provider mail and icloud mail had at least some of times.)
+(iCloud mail customer support had had be intercepted on inquiry and they knows, so both provider mail and icloud mail had at least some non small number of times.)
 And this is low probability but also my line account is (except the blocked persons they aggravate my woe.).
-
-It is the intention to implement relinker to transcode windows to \*nix, but the binary I had is something not normal, so there's a retdec compiler they recompiles normal binaries well as they implements.
 
 I saw a propaganda news topic, I don't have any relation with any of online salon nor so on.
 
@@ -32,4 +30,4 @@ I also saw a propaganda news topic which they had sell/buy some accounts on the 
 
 I have a dinkey academic background, so it's very low probability but if there's some propaganda nor so on, it's not me.
 
-I need the time to read the things I bought before (the books from publishers and the reports that google scholar finds.)
+I need the time to re-read the things I bought before ((the books and kindle from publishers and) the reports that google scholar finds.)
