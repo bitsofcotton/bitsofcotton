@@ -7,6 +7,8 @@
 Since no one except first to mid 2018 (2019?) (lost data but there's 10~20 people I don't have relation before and after then ) contacts me in general publics,
 if there's the people who say they contacts me, it's false. And this account has NO relation with any company and so on since before registration. 
 
+(2021-2022 year gap, someone seems contacts me but it might be spam mail, so the contact had be ignored.)
+
 There's much possibility to be watched by someone if we borrow hosting service space even we don't permit the permission on the Internet nor 
 without logged to access_log, there's no choice from my experience with many of hosting services. 
 Therefore, we publish our files also here.
