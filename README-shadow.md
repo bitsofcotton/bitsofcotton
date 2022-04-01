@@ -14,7 +14,7 @@ without logged to access_log, there's no choice from my experience with many of 
 Therefore, we publish our files also here.
 
 A twitter account I had (around 2017-early 2020 (I don\'t have clear memory), after then, I don't have any relation on the account.) had to be deleted
-because of wrong fingerprint on SSL certificate.
+because of wrong fingerprint on SSL certificate. I don't have any of twitter account since then.
 
 sites.google.com has something buggy on javascript nor someone mitms on line. So we have to delete sites.google.com/view/bitsofcotton site.
 (Text cursor bug.) And they are archived into web drives because of no response from anyone .
