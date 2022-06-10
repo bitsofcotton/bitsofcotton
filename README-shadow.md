@@ -37,6 +37,8 @@ I need the time to re-read the things I bought before ((the books and kindle fro
 My machine might be infected in low level architecture, so some of the repository will be sand castle when attacked by the attacker who has the connection to the manifacture.
 Even if we implement virtual machines on the system, if the code is watched by the attacker nor some pipe/display is cracked, the integrity isn't supported in any which way because former one rewrites the behavior, latter one rewrites all of the i/o.
 
+A pipe or i/o condition is reduced when we work with prng/cryption, however to show the result and to input the data, we cannot avoid them from pipe or i/o raw operation on the system. All we can avoid is to separate vm executables to make it hard tracking data flows nor separate machines / systems.
+
 Especially in the test next one-step prediction causes some of hypothesis to be balanced in near artificially, even the test series before upload can work, after then, not the first some step but after some long range broken result.
 So if this is from the infection, implement something goes to mean nothing on my machine.
 They're reduced into the condition rand ... \| head ... works well, rand ... \| ... works bad...
@@ -46,3 +48,4 @@ Whether all of the concept is valid or not with Ockham's razor condition is obsc
 But with the condition them causes only the status out of the concept shall exists, and by effection from them isn't thought if they doesn't observed. If we don't mind the structure of the concepts, the structure we have strongly depends on order the status observed, if we rethink the structure, they will be reduced.
 
 So my machine with some suspicious prediction result means the status out of the status length effects with the condition statistically illegal, non continuous, even no stable invariants defined in the range.
+
