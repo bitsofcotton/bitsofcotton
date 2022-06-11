@@ -41,7 +41,7 @@ A pipe or i/o condition is reduced when we work with prng/cryption, however to s
 
 Especially in the test next one-step prediction causes some of hypothesis to be balanced in near artificially, even the test series before upload can work, after then, not the first some step but after some long range broken result.
 So if this is from the infection, implement something goes to mean nothing on my machine.
-They're reduced into the condition rand ... \| head ... works well, rand ... \| ... works bad...
+They're reduced into the condition rand ... \| head ... works well, rand ... \| ... works bad... -&gt; replacing arc4random into some file out of libc and function/struct name change causes ok for my linux machine, but I don't know why this works well.
 
 This doesn't directly mean all of the concept is spoiled, the concepts itself is valid if Ockham's razor is valid in theoretically and numerically on my machine.
 Whether all of the concept is valid or not with Ockham's razor condition is obscure, so if there exists a pillar enough beat with Ockham's razor concept, our world also be obscure.
