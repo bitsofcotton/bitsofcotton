@@ -49,3 +49,5 @@ But with the condition them causes only the status out of the concept shall exis
 
 So my machine with some suspicious prediction result means the status out of the status length effects with the condition statistically illegal, non continuous, even no stable invariants defined in the range.
 
+My machine must be infected, even if we install with pursue near real time latest release with checking sign and hash on binary from CD-set I have.
+
