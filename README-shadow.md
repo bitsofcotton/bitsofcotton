@@ -51,3 +51,4 @@ So my machine with some suspicious prediction result means the status out of the
 
 My machine must be infected, even if we install with pursue near real time latest release with checking sign and hash on binary from CD-set I have.
 
+My machine is infected, so we must recompile enough periodical theirselves on running binary itself.
