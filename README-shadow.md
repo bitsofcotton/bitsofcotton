@@ -46,3 +46,5 @@ So my machine with some suspicious prediction result means the status out of the
 My machine must be infected, even if we install with pursue near real time latest release with checking sign and hash on binary from CD-set I have.
 
 My machine is infected, so we must recompile enough periodical theirselves on running binary itself.
+
+(In clang, without -S option produces some unknown (for me) fopen@plt call on unconcerned places as dead code, with -S option, they doesn't produces, and clang++ ... .S cause produce same. In gcc, I don't know this is normal behavior or not, but std::basic_ios...::bad() call produced after Unwind_... call. So if they concern compiler-system infection, libc or syscall or kernel might have some malicious parts unveiled from source code itself.)
