@@ -51,3 +51,5 @@ My machine must be infected, even if we install with pursue near real time lates
 My machine is infected, so we must recompile enough periodical theirselves on running binary itself.
 
 (In clang, without -S option produces some unknown (for me) fopen@plt call on unconcerned places as dead code, with -S option, they doesn't produces, and clang++ ... .S cause reproduce same. In gcc, I don't know this is normal behavior or not, but std::basic_ios...::bad() nor _cxa_throw call produced after Unwind_... call. In the libc++ include file, they doesn't make syscall but implementation causes plt for libc/syscalls. So if they concern compiler-system infection, libc or syscall or kernel might have some malicious parts unveiled from source code itself (if the decompiler doesn't lie.).)
+
+We should implement VM/compiler set or so on because anything other than them causes infected if base binaries are infected condition. However, there is also able to exist a calling perspective calculation infection method they doesn't need some surface but via out of the calculation space we don't know details. So we should implement them but, it is to ease my mind.
