@@ -54,5 +54,5 @@ My machine is infected, so we must recompile enough periodical theirselves on ru
 
 We should implement VM/compiler set or so on because anything other than them causes infected if base binaries are infected condition. However, there is also able to exist a calling perspective calculation infection method they doesn't need some surface but via out of the calculation space we don't know details. So we should implement them but, it is to ease my mind.
 
-NO ONE CONTACTS ME IN REAL AND INTERNET SINCE BEFORE THIS ACCOUNT OPEN CONCERN WITH THESE REPOSITORIES AND DRIVES WITHOUT SPAM MAILS. I'VE BEEN FOOLED BY THE QUIRKS. WHATEVER ANYONE SAYS, THIS IS TRUE. BYE INTERNET.
+NO ONE CONTACTS ME IN REAL AND INTERNET SINCE BEFORE THIS ACCOUNT OPEN CONCERN WITH THESE REPOSITORIES AND DRIVES EXCEPT FOR SPAM MAILS. I'VE BEEN FOOLED BY THE QUIRKS. WHATEVER ANYONE SAYS, THIS IS TRUE. BYE INTERNET.
 
