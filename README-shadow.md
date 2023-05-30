@@ -85,5 +85,5 @@ dEEPl eTOj (COULD ALSO jTOe) IS BEING ATTACKED TO CATCH MIS-UNDERSTANDING ON SOM
 * * authority they (seldom but not the none) can spoil some type of the
 * * persons.).
 
-However, we continue on this repository until we find clear evidence of harassements.
+However, we continue on this repository until we find clear evidence of harassements either if ever exists.
 
