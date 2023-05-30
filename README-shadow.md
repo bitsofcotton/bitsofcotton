@@ -57,3 +57,33 @@ We should implement VM/compiler set or so on because anything other than them ca
 NO ONE CONTACTS ME IN REAL AND INTERNET SINCE BEFORE THIS ACCOUNT OPEN CONCERN WITH THESE REPOSITORIES AND DRIVES EXCEPT FOR SPAM MAILS. I'VE BEEN FOOLED BY THE QUIRKS. WHATEVER ANYONE SAYS, THIS IS TRUE. BYE INTERNET.
 
 dEEPl eTOj (COULD ALSO jTOe) IS BEING ATTACKED TO CATCH MIS-UNDERSTANDING ON SOME OF THE TARGETTED(?) PERSON. EITHER, AMAZON A8 DOESN'T FIND SOME OF THE BOOKS THEY SHOULD APPEAR ON TIMELINE. BYE.
+
+-&gt; There's trivial case condition division:
+
+* (i) To keep our files local.
+* * This cannot avoid low-level attacks like firmware implant nor compiler implant.
+* * We can avoid misrepresentation by ever some of the evil groups except for low-level layer attacker.
+* (ii) To keep our files on private repository.
+* * This cannot avoid to view from some of the groups on the server administrator.
+* (iii) To keep our files on public repository on some another places.
+* * If there ever exists some evil groups, they seek as fast as some another
+* * groups because they sticks. However, this also open minded selection but
+* * no selection.
+* (iv) To keep our files on public repository to continue same places.
+* * Open minded selection but we cannot avoid some of the evil misrepresentation.
+* * Others can seek us with some time-based values. This is only the selection
+* * to keep us safe enough.
+* (v) Slow/fast switch them.
+* * Only the attacker need to near the administrator, there's no selection
+* * because any of the organization has some of the attack surfaces.
+* * So we're blind from organization theirselves, this is no selection.
+* N.B. ever with so, there's some of the laundering attacks they can use.
+* * To avoid them, we can only use some of the community but bothers them.
+* * We only focus on implementing/investigating some of the metaphors.
+* * If our trial is spoiled, there's no plenty of the space even
+* * the space on hack/think without some of the community (especially
+* * authority they (seldom but not the none) can spoil some type of the
+* * persons.).
+
+However, we continue on this repository until we find clear evidence of harassements.
+
