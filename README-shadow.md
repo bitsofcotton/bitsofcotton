@@ -29,6 +29,8 @@ I also saw a propaganda news topic which they had sell/buy some accounts on the 
 
 I have a dinkey academic background, so it's very low probability but if there's some propaganda nor so on, it's not me.
 
+I saw a propaganda topic on some of the note.com accounts, I don't have ANY note.com account since before this account registration.
+
 I need the time to re-read the things I bought before ((the books and kindle from publishers and) the reports that google scholar finds.)
 
 My machine might be infected in low level architecture, so some of the repository will be sand castle when attacked by the attacker who has the connection to the manifacture.
