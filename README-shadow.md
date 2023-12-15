@@ -7,8 +7,8 @@ There's much possibility to be watched by someone if we borrow hosting service s
 without logged to access_log, there's no choice from my experience with many of hosting services. 
 Therefore, we publish our files also here.
 
-A twitter account I had (around 2017-early 2020 (I don\'t have clear memory), after then, I don't have any relation on the account.) had to be deleted
-because of wrong fingerprint on SSL certificate. I don't have any of twitter account since then.
+A twitter(X) account I had (around 2017-early 2020 (I don\'t have clear memory), after then, I don't have any relation on the account.) had to be deleted
+because of wrong fingerprint on SSL certificate. I don't have any of twitter(X) account since then.
 I either don't have facebook account since before github registration.
 
 Either, I and things concerned with this accounts doesn't have ANY money transaction, whatever anyone says.
