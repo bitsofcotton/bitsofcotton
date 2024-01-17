@@ -89,3 +89,5 @@ dEEPl eTOj (COULD ALSO jTOe) IS BEING ATTACKED TO CATCH MIS-UNDERSTANDING ON SOM
 
 However, we continue on this repository until we find clear evidence of harassements either if ever exists.
 
+Bang. Our whole computation and networking environment is under control from some of the existence we don't have any communication. So implementing what causes some cleaner binary of system/compiler is under their watching environment, so they can control our result and they can use whole our result to jam out us and some another visitor to our account. If this is from some of the physical environment, we must have electro-magnetic dark room to work with on some long period they cannot connect to the internet. However, if this is from some of the constraint of the intent from metaphysical way, we don't have any method to avoid them ever (however, someone could have the method of them.).
+
