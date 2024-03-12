@@ -1,3 +1,5 @@
+(instead of /etc/spwd.db)
+
 Since no one except first to mid 2018 (2019?) (lost data but there's 10~20 people I don't have relation before and after then ) contacts me in general publics,
 if there's the people who say they contacts me, it's false. And this account has NO relation with any company and so on since before registration. 
 
@@ -91,3 +93,4 @@ However, we continue on this repository until we find clear evidence of harassem
 
 Bang. Our whole computation and networking environment is under control from some of the existence we don't have any communication. So implementing what causes some cleaner binary of system/compiler is under their watching environment, so they can control our result and they can use whole our result to jam out us and some another visitor to our account. If this is from some of the physical environment, we must have electro-magnetic dark room to work with on some long period they cannot connect to the internet. However, if this is from some of the constraint of the intent from metaphysical way, we don't have any method to avoid them ever (however, someone could have the method of them.).
 
+-&gt; We cannot know the difference between right and wrong about whether it's the infection from real world (as a manifactur or a developer community binary or optical fiber network or some of the SDN on them) or out of the real world or not. So the best strategy from our situation is to implement VM or so on on possible raw layers or possible trusted softwares/hardwares.
