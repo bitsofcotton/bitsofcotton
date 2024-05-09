@@ -94,3 +94,18 @@ However, we continue on this repository until we find clear evidence of harassem
 Bang. Our whole computation and networking environment is under control from some of the existence we don't have any communication. So implementing what causes some cleaner binary of system/compiler is under their watching environment, so they can control our result and they can use whole our result to jam out us and some another visitor to our account. If this is from some of the physical environment, we must have electro-magnetic dark room to work with on some long period they cannot connect to the internet. However, if this is from some of the constraint of the intent from metaphysical way, we don't have any method to avoid them ever (however, someone could have the method of them.).
 
 -&gt; We cannot know the difference between right and wrong about whether it's the infection from real world (as a manifactur or a developer community binary or optical fiber network or some of the SDN on them) or out of the real world or not. So the best strategy from our situation is to implement VM or so on on possible raw layers or possible trusted softwares/hardwares.
+
+-&gt; Coding VM also causes broken result if we're watched by big brother and our PC is controlled from low layer. So we must have electro-magnetic dark room to assure the non-infected binaries. However, if we got such of clean room binary with the PC, once exposed into radiowave which can have be backdoored, the assurences will fail if the PC we use is backdoored. So we must have simplest visually inspected whole clear chips in fact if we're seriously infected condition. Even only a NAND chips, they can have backdoor to communicate some of the UWB CDMA bus like PLC in technologically concepts. So this is the problem concern with trusting some of the supply chain society.
+
+Some series of the software supply chain also have the problem concern with trusting society.
+
+Either, the hard tuning algorithm also have the observation trusting matter.
+
+So once we start questioning everything, there's no end to it.
+
+So the problem is, what level we need to obtain the result from computing.
+
+Only to have completely clean look software set, we should have extra small lisp interpreter binary and small lisp coded C compiler and compile gcc3, then, some of the unix like mainstreams. However, we cannot trust our hardwares and if our matter is true, the binary we will get will spoiled, so our action is locked.
+
+Either, only to have some of the another software lakes on suspicious base binary and compiler set, if our hardware is suspicious, also our action is locked.
+
