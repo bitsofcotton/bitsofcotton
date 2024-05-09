@@ -4,6 +4,7 @@ Since no one except first to mid 2018 (2019?) (lost data but there's 10~20 peopl
 if there's the people who say they contacts me, it's false. And this account has NO relation with any company and so on since before registration. 
 
 (2021-2022 year gap, someone seems contacts me but it might be spam mail, so the contact had be ignored.)
+(early 2024/05, someone sent spam mail to me, the mail including some of the scholar ship introduction, thank you if this is true, however, we cannot communicate with the sender because we cannot know the sender information by e-mail we received only, the mail had be ignored.)
 
 There's much possibility to be watched by someone if we borrow hosting service space even we don't permit the permission on the Internet nor 
 without logged to access_log, there's no choice from my experience with many of hosting services. 
