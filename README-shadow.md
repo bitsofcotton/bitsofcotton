@@ -24,7 +24,7 @@ I saw a brain outsourcing service via some social bookmark hot entries, I don't 
 The e-mail account that I use often losts mail including account login confirmation. So it might be intercepted nor filtered by spam filter.
 I had had another e-mail accounts on some of hosting service / free mail, but they also had a probability to filter emails even in VPS.
 (iCloud mail customer support had had be intercepted on inquiry and they knows, so both provider mail and icloud mail had at least some non small number of times.)
-And this is low probability but also my line account is (except the blocked persons they aggravate my woe.).
+And this is <strike>low<\strike> middle probability but also my line account is (except the blocked person they aggravate my woe.).
 
 I saw a propaganda news topic, I don't have any relation with any of online salon nor so on.
 
