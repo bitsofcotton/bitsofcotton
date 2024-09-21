@@ -4,3 +4,6 @@
 - 💞️ I’m looking to collaborate on -.
 - 📫 How to reach me : [Google Drive Link](https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing) | [One Drive Link](https://1drv.ms/u/s!AnqkwcwMjB_PaDIfXya_M3-aLXw?e=36tH6D) | [Github Link](https://github.com/bitsofcotton) | [OSDN Link](https://osdn.net/users/bitsofcotton/) | [BitBucket Link](https://bitbucket.org/bitsofcotton/) | [GitLab Link](https://gitlab.com/bitsofcotton) | [Working Sample](https://konbu.azurewebsites.net/) | [Docker Hub Link](https://hub.docker.com/u/bitsofcotton/) | [Sourceforge Link (abandoned)](https://sourceforge.net/u/bitsofcotton/) | Private Email | Private Line | github email redirection (but the provider I use sometimes losts mails... bad...).
 - For details, please refer [bitsofcotton/bitsofcotton/README-shadow.md](https://github.com/bitsofcotton/bitsofcotton)
+
+Each of our repository is tuned testable with moderate PC around early 2020s with slow base systems even if we can improve the result from some loop append nor large inputs.
+
