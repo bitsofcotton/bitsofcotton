@@ -110,3 +110,5 @@ Only to have completely clean look software set, we should have extra small lisp
 
 Either, only to have some of the another software lakes on suspicious base binary and compiler set, if our hardware is suspicious, also our action is locked.
 
+A psnd -e, -d commands, even with 64-bit integer calculation without footer for some paddings, the result can slips, so our computer's CPU might be broken but this isn't Intel's.
+
