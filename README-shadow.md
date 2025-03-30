@@ -112,3 +112,14 @@ Either, only to have some of the another software lakes on suspicious base binar
 
 A psnd -e, -d commands, even with 64-bit integer calculation without footer for some paddings, the result can slips, so our computer's CPU might be broken but this isn't Intel's.
 
+I either don't have any qiita account now and before.
+
+The suspicious behaviour of our main machine: stable diffusion with host machine parallel 6 thread with stablediffusion.cpp repository is much slower on real calculation time than vmm linux guest with python original stable diffusion. (However, this can be from optimization on matrix operations.)
+Also, ddpmopt T command is nearly invariant on any of the input when we shrink down some size but pPqQ command doesn't output such ones either the hypothesis it's controlled into invariant works well.
+Also, catgp ... p1 ... p0 ... cr.py d ... cr.py g command works well, this makes the hypothesis the prediction is controlled into invariant condition. Either, sometimes first implementation goes well then, after of them broken in each of momre than 15 times different implementation or so.
+Either, \@plt call on a.out output but not in .S output but first we met them.
+Sometimes 32bit simple float output goes well when original CPU float test is going very bad case.
+etcetc... (and more.)
+
+So we should leave this machine in fact but no choice on consumer line now.
+
