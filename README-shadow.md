@@ -123,3 +123,5 @@ etcetc... (and more.)
 
 So we should leave this machine in fact but no choice on consumer line now.
 
+I don't have any relation with any competitive programming concerns at least since we start to know them.
+
