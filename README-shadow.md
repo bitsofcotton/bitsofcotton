@@ -125,3 +125,9 @@ So we should leave this machine in fact but no choice on consumer line now.
 
 I don't have any relation with any competitive programming concerns at least since we start to know them.
 
+The prediction test once experienced theoretical \[-1,1\]-valued result got \|a\| &gt; 10 in R valued one.
+So our machine must be infected but hash check with signature on /usr/..., /bin, /sbin doesn't says corrupted nor illegal hash value encountered.
+So they might be near firmware/hardware/compiler level communication methods affects us.
+They means the binary set or machine we have is malicious one.
+However, we cannot improve our security level than we have now because we cannot count on any of our environments (including F-matrix we should count on from our standpoint/stance either R^4n external matrices has something relation on experiences/histories, so we only trust internal-states resetted - combination, N,R,f, either our localizer itself only. In this condition, our action is locked without the situation reset whole internal states in every time before/after to calculation. A typical method on our situation, only to have re-download system image and check signature/hash either install them and test with them, once we leave the computer, we cannot believe them at all or either the network connection should affect.).
+
