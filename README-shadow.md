@@ -34,30 +34,15 @@ I have a dinkey academic background, so it's very low probability but if there's
 
 I saw a propaganda topic on some of the note.com accounts, I don't have ANY note.com account since before this account registration.
 
+I either don't have any qiita account now and before.
+
+I don't have any relation with any competitive programming concerns at least since we start to know them.
+
 I need the time to re-read the things I bought before ((the books and kindle from publishers and) the reports that google scholar finds.)
-
-My machine might be infected in low level architecture, so some of the repository will be sand castle when attacked by the attacker who has the connection to the manifacture.
-Even if we implement virtual machines on the system, if the code is watched by the attacker nor some pipe/display is cracked, the integrity isn't supported in any which way because former one rewrites the behavior, latter one rewrites all of the i/o.
-
-A pipe or i/o condition is reduced when we work with prng/cryption, however to show the result and to input the data, we cannot avoid them from pipe or i/o raw operation on the system. All we can avoid is to separate vm executables to make it hard tracking data flows nor separate machines / systems.
-
-Especially in the test next one-step prediction causes some of hypothesis to be balanced in near artificially, even the test series before upload can work, after then, not the first some step but after some long range broken result.
-So if this is from the infection, implement something goes to mean nothing on my machine.
-They're reduced into the condition rand ... \| head ... works well, rand ... \| ... works bad... -&gt; replacing arc4random into some file out of libc and function/struct name change causes ok for my linux machine, but I don't know why this works well.
-
-This doesn't directly mean all of the concept is spoiled, the concepts itself is valid if Ockham's razor is valid in theoretically and numerically on my machine.
-Whether all of the concept is valid or not with Ockham's razor condition is obscure, so if there exists a pillar enough beat with Ockham's razor concept, our world also be obscure.
-But with the condition them causes only the status out of the concept shall exists, and by effection from them isn't thought if they doesn't observed. If we don't mind the structure of the concepts, the structure we have strongly depends on order the status observed, if we rethink the structure, they will be reduced.
-
-So my machine with some suspicious prediction result means the status out of the status length effects with the condition statistically illegal, non continuous, even no stable invariants defined in the range.
 
 My machine must be infected, even if we install with pursue near real time latest release with checking sign and hash on binary from CD-set I have.
 
-My machine is infected, so we must recompile enough periodical theirselves on running binary itself.
-
-(In clang, without -S option produces some unknown (for me) fopen@plt call on unconcerned places as dead code, with -S option, they doesn't produces, and clang++ ... .S cause reproduce same. In gcc, I don't know this is normal behavior or not, but std::basic_ios...::bad() nor _cxa_throw call produced after Unwind_... call. In the libc++ include file, they doesn't make syscall but implementation causes plt for libc/syscalls. So if they concern compiler-system infection, libc or syscall or kernel might have some malicious parts unveiled from source code itself (if the decompiler doesn't lie.).)
-
-We should implement VM/compiler set or so on because anything other than them causes infected if base binaries are infected condition. However, there is also able to exist a calling perspective calculation infection method they doesn't need some surface but via out of the calculation space we don't know details. So we should implement them but, it is to ease my mind.
+My machine is infected.
 
 NO ONE CONTACTS ME IN REAL AND INTERNET SINCE BEFORE THIS ACCOUNT OPEN CONCERN WITH THESE REPOSITORIES AND DRIVES EXCEPT FOR SPAM MAILS. I'VE BEEN FOOLED BY THE QUIRKS. WHATEVER ANYONE SAYS, THIS IS TRUE. BYE INTERNET.
 
@@ -92,42 +77,21 @@ dEEPl eTOj (COULD ALSO jTOe) IS BEING ATTACKED TO CATCH MIS-UNDERSTANDING ON SOM
 
 However, we continue on this repository until we find clear evidence of harassements either if ever exists.
 
-Bang. Our whole computation and networking environment is under control from some of the existence we don't have any communication. So implementing what causes some cleaner binary of system/compiler is under their watching environment, so they can control our result and they can use whole our result to jam out us and some another visitor to our account. If this is from some of the physical environment, we must have electro-magnetic dark room to work with on some long period they cannot connect to the internet. However, if this is from some of the constraint of the intent from metaphysical way, we don't have any method to avoid them ever (however, someone could have the method of them.).
-
--&gt; We cannot know the difference between right and wrong about whether it's the infection from real world (as a manifactur or a developer community binary or optical fiber network or some of the SDN on them) or out of the real world or not. So the best strategy from our situation is to implement VM or so on on possible raw layers or possible trusted softwares/hardwares.
-
--&gt; Coding VM also causes broken result if we're watched by big brother and our PC is controlled from low layer. So we must have electro-magnetic dark room to assure the non-infected binaries. However, if we got such of clean room binary with the PC, once exposed into radiowave which can have be backdoored, the assurences will fail if the PC we use is backdoored. So we must have simplest visually inspected whole clear chips in fact if we're seriously infected condition. Even only a NAND chips, they can have backdoor to communicate some of the UWB CDMA bus like PLC in technologically concepts. So this is the problem concern with trusting some of the supply chain society.
+Bang. Our whole computation and networking environment is under control from some of the existence we don't have any communication. So implementing what causes some cleaner binary of system/compiler is under their watching environment, so they can control our result and they can use whole our result to jam out us and some another visitor to our account.
 
 Some series of the software supply chain also have the problem concern with trusting society.
-
 Either, the hard tuning algorithm also have the observation trusting matter.
-
 So once we start questioning everything, there's no end to it.
 
 So the problem is, what level we need to obtain the result from computing.
 
-Only to have completely clean look software set, we should have extra small lisp interpreter binary and small lisp coded C compiler and compile gcc3, then, some of the unix like mainstreams. However, we cannot trust our hardwares and if our matter is true, the binary we will get will spoiled, so our action is locked.
-
-Either, only to have some of the another software lakes on suspicious base binary and compiler set, if our hardware is suspicious, also our action is locked.
-
 A psnd -e, -d commands, even with 64-bit integer calculation without footer for some paddings, the result can slips, so our computer's CPU might be broken but this isn't Intel's.
-
-I either don't have any qiita account now and before.
-
-The suspicious behaviour of our main machine: stable diffusion with host machine parallel 6 thread with stablediffusion.cpp repository is much slower on real calculation time than vmm linux guest with python original stable diffusion. (However, this can be from optimization on matrix operations.)
-Also, ddpmopt T command is nearly invariant on any of the input when we shrink down some size but pPqQ command doesn't output such ones either the hypothesis it's controlled into invariant works well.
-Also, catgp ... p1 ... p0 ... cr.py d ... cr.py g command works well, this makes the hypothesis the prediction is controlled into invariant condition. Either, sometimes first implementation goes well then, after of them broken in each of momre than 15 times different implementation or so.
 Either, \@plt call on a.out output but not in .S output but first we met them.
 Sometimes 32bit simple float output goes well when original CPU float test is going very bad case.
-etcetc... (and more.)
-
-So we should leave this machine in fact but no choice on consumer line now.
-
-I don't have any relation with any competitive programming concerns at least since we start to know them.
-
 The prediction test once experienced theoretical \[-1,1\]-valued result got \|a\| &gt; 10 in R valued one.
-So our machine must be infected but hash check with signature on /usr/..., /bin, /sbin doesn't says corrupted nor illegal hash value encountered.
-So they might be near firmware/hardware/compiler level communication methods affects us.
-They means the binary set or machine we have is malicious one.
-However, we cannot improve our security level than we have now because we cannot count on any of our environments (including F-matrix we should count on from our standpoint/stance either R^4n external matrices has something relation on experiences/histories, so we only trust internal-states resetted - combination, N,R,f, either our localizer itself only. In this condition, our action is locked without the situation reset whole internal states in every time before/after to calculation. A typical method on our situation, only to have re-download system image and check signature/hash either install them and test with them, once we leave the computer, we cannot believe them at all or either the network connection should affect.).
+etcetc... (and more.)
+So our machine must be infected but hash check with signature on /usr/..., /bin, /sbin doesn't says corrupted nor no illegal hash value encountered.
+
+We only trust internal-states resetted - combination,N,R,f, either our localizer itself only. In this condition, our action is locked without the situation reset whole internal states in every time before/after to calculation.
+We might be recommended to use GuixSD or nixOS as a qemu host machine with trusted hard/firmware if whole of the source code is audited one with this situation, however the consumer line...
 
